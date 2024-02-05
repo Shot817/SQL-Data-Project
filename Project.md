@@ -1,4 +1,4 @@
-# SQL-Data-Project
+# Covid Data Analytics With SQL
 
 # Tasks
 - Clean Data Using SQL
