@@ -1,19 +1,19 @@
 # SQL-Data-Project
 
 # Goals
--Clean Data Using SQL
--Prepare Data For Visualizations in Tableau
--Find Infection Cases By Years and their Percentage From Country Population
--Find Death Rate From Covid by Countries and their Percentage From Country Population
--Find Amount of Vaccinated and Fully Vaccinated People by Countries and their Percentage From Country Population
--Define How Income Level Affects on Death Rate From Covid
--Define How Income Level Affects on Vaccinations
+- Clean Data Using SQL
+- Prepare Data For Visualizations in Tableau
+- Find Infection Cases By Years and their Percentage From Country Population
+- Find Death Rate From Covid by Countries and their Percentage From Country Population
+- Find Amount of Vaccinated and Fully Vaccinated People by Countries and their Percentage From Country Population
+- Define How Income Level Affects on Death Rate From Covid
+- Define How Income Level Affects on Vaccinations
 
 # Tool
--MSSQL
+- MSSQL
 
 # Source Used
--Global World Covid Statistics for 2019-2023 Years
+- Global World Covid Statistics for 2019-2023 Years
 
 # Conclusions From Data
 - Country With the Largest Amount of Covid Infected People by 2023 Year - USA
