@@ -1,6 +1,6 @@
 # SQL-Data-Project
 
-# Goals
+# Tasks
 - Clean Data Using SQL
 - Prepare Data For Visualizations in Tableau
 - Find Infection Cases By Years and their Percentage From Country Population
